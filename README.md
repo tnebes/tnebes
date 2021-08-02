@@ -1,7 +1,7 @@
 # Me
 
-* uses C++, Java, Python, PHP, Typescript, SQL
-* likes wrestling with bugs and other 'unwanted behaviours'
+* uses PHP, Java, C++, Python, Typescript, and SQL.
+* likes wrestling with bugs and other 'unwanted behaviours'.
 
 ## 🔭 Is working on
 
