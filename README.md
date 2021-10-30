@@ -2,18 +2,22 @@
 
 * uses PHP, Java, C++, Python, Typescript, and SQL.
 * likes wrestling with bugs and other 'unwanted behaviours'.
+* actually enjoys reading lenghty documentations
 
 ## 🔭 Is working on
 
 * deploying a web-application
+* unit testing using Mockito and JUnit5
+* developing Java Web Applications
 
 ## 🌱 Is learning
 
-* PHP and Typescript
+* Typescript
+* Adobe Experience Manager
 
 ## Would like
 
-* an opportunity to develop himself professionally
+* to continue learning about Java Web Development
 
 <!--
 **tnebes/tnebes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
