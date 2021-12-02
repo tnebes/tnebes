@@ -14,6 +14,7 @@
 
 * Typescript
 * Adobe Experience Manager
+* Go
 
 ## Would like
 
