@@ -1,6 +1,6 @@
 # Me
 
-* uses PHP, Java, C++, Python, Typescript, and SQL.
+* uses Java, PHP, C++, Python, Typescript, and SQL.
 * likes wrestling with bugs and other 'unwanted behaviours'.
 * actually enjoys reading lenghty documentations
 
@@ -14,7 +14,7 @@
 
 * Typescript
 * Adobe Experience Manager
-* Go
+* Spring Boot
 
 ## Would like
 
